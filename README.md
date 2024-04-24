@@ -1,5 +1,3 @@
 # deploy-verification
 
 バグなし
-
-バグあり
