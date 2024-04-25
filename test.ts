@@ -1,5 +1,5 @@
 function increment(num) {
-    return num + 5;
+    return num + 1;
   }
   
-  console.log(increment(1000));
+  console.log(increment(999));
